@@ -13,15 +13,15 @@ title                    : "Liqiang Huang"
 title_separator          : "-"
 name                     : &name Liqiang Huang
 description              : &description >
-I am currently a PhD student (2021-Now) at the University of Houston, Electrical and Computer Engineering Department,
-working with Dr. Roysam Badri. My main research focuses on developing computer vision (deep learning) algorithms, particularly self-supervised model,|
-large vision language model, and generative model to solve the medical/biological complex images. Building on this foundation, I am extending these approaches to model quantization, 
-cell/crack segmentation, video interpolation and reduce artifacts/blur in microscopy images, seeking to build AI tools for biologists to analyze the complex bioimages. 
+  I am currently a PhD student (2021-Now) at the University of Houston, Electrical and Computer Engineering Department,
+  working with Dr. Roysam Badri. My main research focuses on developing computer vision (deep learning) algorithms, particularly self-supervised model,
+  large vision language model, and generative model to solve the medical/biological complex images. Building on this foundation, I am extending these approaches to model quantization, 
+  cell/crack segmentation, video interpolation and reduce artifacts/blur in microscopy images, seeking to build AI tools for biologists to analyze the complex bioimages. 
  # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://moxx799.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "moxx799/moxx799.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
