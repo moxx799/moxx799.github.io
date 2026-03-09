@@ -31,10 +31,10 @@ author:
   avatar           : "profile.png"
   name             : "Liqiang Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Focusing on computer vision/large vision language model, and diffusion on Bioimages"
   location         : "Houston"
   employer         : "University of Houston"
-  uri              : # URL
+  uri              : https://moxx799.github.io
   email            : "liqiang37uh@gmail.com" 
 
   # Academic websites
@@ -71,7 +71,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/liqiang-huang-753297235/
+  linkedin         : liqiang-huang-753297235
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
