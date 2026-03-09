@@ -28,7 +28,7 @@ repository               : "moxx799/moxx799.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tou.jpg"
   name             : "Liqiang Huang"
   pronouns         : # example: "she/her"  
   bio              : "Focusing on computer vision, large vision language model, and diffusion model on Bioimages"

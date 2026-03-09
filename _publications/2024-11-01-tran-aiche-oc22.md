@@ -1,7 +1,7 @@
 ---
 title: "Rational Design of Nanoscale Stabilized Oxide Catalysts for the Oxygen Evolution Reaction with OC22"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/2024-11-01-tran-aiche-oc22
 excerpt: 'Conference presentation on rational design strategies for nanoscale stabilized oxide catalysts for the oxygen evolution reaction using OC22.'
 date: 2024-11-01
