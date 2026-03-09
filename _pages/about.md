@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student (2021-Now) at the University of Houston, Electrical and Computer Engineering Department,
-  working with Dr. Roysam Badri. My main research focuses on developing computer vision (deep learning) algorithms, particularly self-supervised model,
-  large vision language model, and generative model to solve the medical/biological complex images. Building on this foundation, I am extending these approaches to model quantization, 
-  cell/crack segmentation, video interpolation and reduce artifacts/blur in microscopy images, seeking to build AI tools for biologists to analyze the complex bioimages. 
+I am currently a PhD student (2020-Now) at the University of Houston, Electrical and Computer Engineering Department,
+  working with Dr. Roysam Badri. My main research focuses on developing computer vision (deep learning) algorithms, particularly self-supervised models,
+  large vision language models, and generative models to analyze the complex biomedical images. Building on this foundation, I am extending these approaches to model quantization, 
+  cell/crack segmentation, video interpolation and reduce artifacts/blur in microscopy images, seeking to build AI tools for biologists (NIH, M.D Anderson cancer center) to analyze the complex bioimages. 
 
 News
 ======
@@ -21,14 +21,24 @@ Publications
 ------
 See the full list on the [Publications](/publications/) page.
 
-Experience
+Projects
 ------
-1. ok
+1. Self-supervised model
+2. Large vision language model
+3. Cell segmentation
+4. Catalyst screen via graph neuron network
+5. Video interpolation
+6. Underwater image deblur
+7. Crack detection(segmentation)
+
 
 Educations
 ------
-1.OK
+1.**2020.08 - now**: PhD, University of Houston in Electrical and Computer Engineering
+2.Bacher's Degree, Fuzhou University in Chemistry
 
 Teaching
 ------
-1. okk
+1. **Fall.2021 semester**: Teaching Assistant, Introduction to Deep learning, University of Houston
+2. **Spring.2022 semester** Teaching Assistant, Advanced Deep learning, University of Houston
+3. **Spring.2023 semester** Teaching Assistant, Machine learning on cyber security, University of Houston
