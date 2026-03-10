@@ -12,29 +12,8 @@ main:
   - title: "About me"
     url: /
 
-  - title: "News"
-    url: /news/
-
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "CV"
-    url: /cv/
-
-  - title: "Blog posts"
-    url: /posts/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/

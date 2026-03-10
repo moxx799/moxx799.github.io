@@ -7,8 +7,46 @@ author_profile: true
 
 {% include base_path %}
 
+<p>This page summarizes selected research and engineering projects in biomedical AI and scientific imaging. The focus is on robust modeling, interpretability, and deployment-oriented outcomes.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<h2>1) Self-supervised Learning for Multi-channel Brain Imaging</h2>
+<p>
+I developed a hierarchical self-supervised framework for high-dimensional spatial imaging data (15 channels), enabling representation learning without dense labels. The method improves topology-aware characterization of brain tissue regions and supports downstream disease-related analysis.
+</p>
+<p><img src="/images/F1.png" alt="Self-supervised multi-channel brain imaging" style="max-width: 100%; height: auto;"></p>
 
+<h2>2) Large Vision-Language Modeling for Spatial Proteomics</h2>
+<p>
+I built a domain-adapted vision-language workflow for brain disease studies (including injury and neurodegeneration). The pipeline combines LoRA-based fine-tuning and retrieval-augmented context to increase response quality and interpretability on complex biomedical imagery.
+</p>
+<p>
+<img src="/images/f3.png" alt="Vision-language model for spatial proteomics" style="max-width: 100%; height: auto; margin-bottom: 0.8rem;">
+<img src="/images/F4.png" alt="Additional vision-language system figure" style="max-width: 100%; height: auto;">
+</p>
+
+<h2>3) Weak-to-Strong Cell Segmentation for Dense Overlaps</h2>
+<p>
+I designed a weak-to-strong learning strategy that transfers generalizable priors from foundation models into specialized cell segmentation. This improves boundary recovery and instance separation in highly crowded microscopy scenes.
+</p>
+<p><img src="/images/F5.png" alt="Cell segmentation in overlapping regions" style="max-width: 100%; height: auto;"></p>
+
+<h2>4) High-throughput Catalyst Screening with Graph Neural Networks</h2>
+<p>
+I developed a machine learning workflow for catalyst screening, using graph-based representations to capture structural relationships and improve prediction quality for high-throughput candidate evaluation.
+</p>
+<p><img src="/images/f9.png" alt="Catalyst screening with graph neural networks" style="max-width: 100%; height: auto;"></p>
+
+<h2>5) Video Interpolation with Diffusion Models</h2>
+<p>
+Ongoing work on diffusion-based temporal interpolation for scientific video data, targeting motion continuity and artifact reduction in challenging recording conditions.
+</p>
+
+<h2>6) Underwater Image Deblurring and Efficient Deployment</h2>
+<p>
+I implemented GAN-based deblurring for underwater imagery and explored model compression/quantization to support practical deployment on robotic platforms.
+</p>
+<p>
+<img src="/images/f0.png" alt="Underwater image deblurring example" style="max-width: 100%; height: auto; margin-bottom: 0.8rem;">
+<img src="/images/F61.png" alt="Underwater deployment model figure" style="max-width: 100%; height: auto; margin-bottom: 0.8rem;">
+<img src="/images/f62.jpg" alt="Underwater robotics scene" style="max-width: 100%; height: auto;">
+</p>

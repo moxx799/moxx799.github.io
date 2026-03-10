@@ -2,43 +2,53 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a PhD student (2020-Now) at the University of Houston, Electrical and Computer Engineering Department,
-  working with Dr. Roysam Badri. My main research focuses on developing computer vision (deep learning) algorithms, particularly self-supervised models,
-  large vision language models, and generative models to analyze the complex biomedical images. Building on this foundation, I am extending these approaches to model quantization, 
-  cell/crack segmentation, video interpolation and reduce artifacts/blur in microscopy images, seeking to build AI tools for biologists (NIH, M.D Anderson cancer center) to analyze the complex bioimages. 
+I am a Ph.D. candidate (2020-present) in Electrical and Computer Engineering at the University of Houston, advised by Dr. Badrinath Roysam. My research develops practical computer vision and multimodal AI methods for biomedical imaging, with a focus on self-supervised learning, vision-language modeling, and generative modeling.
 
-News
-======
-1. **2026.03**: Our [mViSE](https://www.nature.com/articles/s41598-026-40620-5) is accepted at Nature scientific report.
-2. **2026.03**: Website established.
+I work on methods that can handle large, complex microscopy and spatial omics data, and I collaborate with biomedical teams to translate these methods into usable analysis tools.
 
-Publications
-------
+## Research Focus
+
+- Self-supervised representation learning for multi-channel biomedical images
+- Vision-language models for interpretable analysis of spatial proteomics and brain pathology data
+- Segmentation for challenging cell structures and heavy overlaps
+- Diffusion and generative models for restoration, interpolation, and deblurring
+- Efficient deployment through model compression and quantization
+
+## Selected Projects
+
+### 1) Self-supervised Multi-channel Brain Imaging
+A hierarchical self-supervised framework to learn structure-aware features from 15-channel imaging data for brain tissue topology analysis.
+
+![Self-supervised multi-channel brain imaging](/images/F1.png)
+
+### 2) Vision-Language AI for Spatial Proteomics
+A domain-adapted large vision-language pipeline with LoRA tuning and retrieval-augmented context for interpretable biomedical image understanding.
+
+![Vision-language spatial proteomics workflow](/images/f3.png)
+
+### 3) Cell Segmentation in Dense and Overlapping Regions
+A weak-to-strong learning strategy that integrates foundation-model priors to improve segmentation under severe cell overlap.
+
+![Cell segmentation results](/images/F5.png)
+
+For detailed descriptions and additional projects, see the [Portfolio](/portfolio/) page.
+
+## Publications
+
 See the full list on the [Publications](/publications/) page.
 
-Projects
-------
-1. Self-supervised model
-2. Large vision language model
-3. Cell segmentation
-4. Catalyst screen via graph neuron network
-5. Video interpolation
-6. Underwater image deblur
-7. Crack detection(segmentation)
+## Education
 
+- **2020.08-present**: Ph.D. in Electrical and Computer Engineering, University of Houston
+- **2016.09-2020.06**: B.S. in Chemistry, Fuzhou University
 
-Educations
-------
-1.**2020.08 - now**: PhD, University of Houston in Electrical and Computer Engineering
-2.Bacher's Degree, Fuzhou University in Chemistry
+## Teaching
 
-Teaching
-------
-1. **Fall.2021 semester**: Teaching Assistant, Introduction to Deep learning, University of Houston
-2. **Spring.2022 semester** Teaching Assistant, Advanced Deep learning, University of Houston
-3. **Spring.2023 semester** Teaching Assistant, Machine learning on cyber security, University of Houston
+- **Fall 2021**: Teaching Assistant, Introduction to Deep Learning, University of Houston
+- **Spring 2022**: Teaching Assistant, Advanced Deep Learning, University of Houston
+- **Spring 2023**: Teaching Assistant, Machine Learning in Cybersecurity, University of Houston
